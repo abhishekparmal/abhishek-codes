@@ -14,22 +14,21 @@ Welcome to **Abhishek Codes**, where I document my learning journey, coding prac
 ✔️ **Full-Stack Mini Projects** (React, Spring Boot, etc.)  
 ✔️ **Web Development Experiments**  
 
----
-
-## 📂 Folder Structure:  
-📦 Abhishek-Codes
-┣ 📂 DSA
-┃ ┣ 📜 Arrays.md
-┃ ┣ 📜 LinkedList.md
-┃ ┗ 📜 Sorting.md
-┣ 📂 JavaScript-Projects
-┃ ┣ 📜 To-Do-App
-┃ ┣ 📜 Weather-App
-┃ ┗ 📜 Calculator
-┣ 📂 Full-Stack-Projects
-┃ ┣ 📜 Task-Manager
-┃ ┗ 📜 Portfolio-Website
-┗ 📜 README.md
+## 📂 Folder Structure:
+```bash
+📦 Abhishek-Codes  
+ ┣ 📂 DSA  
+ ┃ ┣ 📜 Arrays.md  
+ ┃ ┣ 📜 LinkedList.md  
+ ┃ ┗ 📜 Sorting.md  
+ ┣ 📂 JavaScript-Projects  
+ ┃ ┣ 📜 To-Do-App  
+ ┃ ┣ 📜 Weather-App  
+ ┃ ┗ 📜 Calculator  
+ ┣ 📂 Full-Stack-Projects  
+ ┃ ┣ 📜 Task-Manager  
+ ┃ ┗ 📜 Portfolio-Website  
+ ┗ 📜 README.md  
 
 ---
 
